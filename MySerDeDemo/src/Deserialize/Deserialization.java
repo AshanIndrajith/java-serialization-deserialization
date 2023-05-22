@@ -12,7 +12,7 @@ public class Deserialization {
     public static void main(String[] args) {
 
           Student.setAge(12);
-          
+
 
         try {
             FileInputStream fis=new FileInputStream("F:\\java-serialization-deserialization\\java-serialization-deserialization\\files\\stu.txt");
